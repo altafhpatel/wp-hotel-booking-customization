@@ -11,3 +11,15 @@
 ### files
 1. single-room.php
 When a user visit a single hotel page to view the detail like (description, gallery, additional information, prices, dates).
+
+### Developer Information
+1. My name is Altaf Hussain Patel based in Pakistan. Love to customize wordpress according to their requirement.
+2. Basically repo is created for those who are searching for the solution to create custom templates.
+3. <strong>Hire me for your custom wordpress need.</strong> Send me an email (propatel2 [at] gmail.com]
+4. Visit my website [propatel.com](https://propatel.com).
+
+
+## Request
+1. We appreciate other developers effort if you customize by clonning this repo. Please provide your feedback to make it more useful for others.
+
+Thanks for visiting.
